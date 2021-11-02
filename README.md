@@ -2,4 +2,4 @@
 - 👀 I’m interested in coding, arts and history
 - 🌱 I’m currently learning Python and French
 - 💞️ I’m looking to collaborate on coding and french
-- 📫 How to reach me bobiscop@gmail.cm or tg:@miywy
+- 📫 How to reach me: bobiscop@gmail.cm or tg:@miywy
