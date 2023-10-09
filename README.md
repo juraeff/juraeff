@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @chesnock
-- 👀 I’m interested in coding, arts and history
-- 🌱 I’m currently learning Kotlin and French
-- 💞️ I’m looking to collaborate on coding and french
+- 👋 Hi, It's Rusya Juraeff
+- 👀 I do coding, engineering and social studies
+- 🌱 I currently improve in French, Kotlin and C++
+- 💞️ I look to collaborate on coding and stuff
 - 📫 How to reach me: bobiscop@gmail.com or tg:@miywy
+- 🏫 Russian Technological University, Institute of IT.
