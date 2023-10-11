@@ -2,5 +2,5 @@
 - 👀 I do coding, engineering and social studies
 - 🌱 I currently improve in French, Kotlin and C++
 - 💞️ I look to collaborate on coding and stuff
-- 📫 How to reach me: bobiscop@gmail.com or tg:@miywy
+- 📫 How to reach me: rusya.juraeff@gmail.com
 - 🏫 Russian Technological University, Institute of IT.
