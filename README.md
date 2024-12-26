@@ -5,4 +5,4 @@
 - I'd love to collaborate on interesting projects. :shipit: 
 - How to reach me: rusya.juraeff@gmail.com. 📫 
 - **Russian Technological University, Institute of IT.** 🏫
-- Also, for some reason, I always loved history and especially culture.
+- I'm into history, politics, science as well.
